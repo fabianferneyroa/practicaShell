@@ -1,0 +1,5 @@
+Shell Scripting con Bash Dentro de la carpeta personal con un nombre muy útil en el directorio nc-filesystem del repositorio, hay varios archivos de personal. Su tarea es crear un script que verifique si un archivo para un número de identificación de personal determinado está presente en el directorio.
+
+Todos los archivos de personal siguen la misma convención de nomenclatura de nc-ID.json, como el archivo nc-001.json.
+
+Su secuencia de comandos debe imprimir un mensaje adecuado en la terminal in
